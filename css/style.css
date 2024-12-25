@@ -2,7 +2,7 @@ body {
   background-image: url('../img/BG.jpg');
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: center;
   background-attachment: fixed;
   min-height: 100vh;
   display: flex;
