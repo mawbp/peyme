@@ -1,8 +1,8 @@
 body {
-  background-image: url('../img/BG.jpg');
-  background-size: contain;
+  background-image: url('../img/portrait-img.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
   background-attachment: fixed;
   min-height: 100vh;
   display: flex;
