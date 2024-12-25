@@ -1,8 +1,8 @@
 body {
   background-image: url('../img/BG.jpg');
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: top;
   background-attachment: fixed;
   min-height: 100vh;
   display: flex;
