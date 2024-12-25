@@ -7,4 +7,10 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  background-color: black;
+}
+
+* {
+  margin: 0,
+    padding: 0
 }
